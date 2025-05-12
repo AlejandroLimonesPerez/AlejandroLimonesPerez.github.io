@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    </div>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carritos de Dulces - Eventos Especiales</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<a href="https://wa.me/528116794884" class="whatsapp" target="_blank" aria-label="Chatea por WhatsApp">
+    💬
+</a>
+<body>
+    <header>
+        <div class="container">
+            <h1>Carritos de Dulces</h1>
+            <nav>
+                <ul>
+                    <li><a href="#inicio">Inicio</a></li>
+                    <li><a href="#servicios">Servicios</a></li>
+                    <li><a href="#galeria">Galería</a></li>
+                    <li><a href="#testimonios">Testimonios</a></li>
+                    <li><a href="#contacto">Contacto</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="inicio" class="hero">
+        <div class="container">
+            <h2>RENTA TU SERVICIO DE SNACKS!!</h2>
+            <p>Servicio de carritos de SNACKS para eventos, Somos el mejor servicio de SNACK para eventos antes visto en Monterrey. Nos distinguimos por nuestra deliciosa nieve sabor Gansito. ¿QUE ESPERAS PARA LLEVAR LOS MEJORES CARRITOS DE SNACKS A TUS EVENTOS? Ubicados en Santa Catarina N.L </p>
+            <a href="#contacto" class="btn">Solicita una cotización</a>
+        </div>
+    </section>
+
+    <section id="servicios" class="section">
+        <div class="container">
+            <div class="grid">
+                <div class="card">
+                    <h3>Bodas y Aniversarios</h3>
+                    <p>Carritos decorados con estilo romántico para un toque inolvidable.</p>
+                </div>
+                <div class="card">
+                    <h3>Cumpleaños Infantiles</h3>
+                    <p>Temáticas personalizadas para niños y niñas de todas las edades.</p>
+                </div>
+                <div class="card">
+                    <h3>Eventos Corporativos</h3>
+                    <p>Carritos elegantes y sobrios para eventos de empresa, lanzamientos y ferias.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="galeria" class="section">
+        <div class="container">
+            <h2>Galería</h2>
+            <div class="gallery">
+                <img src="img1.jpg" alt="Carrito decorado 1">
+                <img src="img2.jpg" alt="Carrito decorado 2">
+                <img src="img3.jpg" alt="Evento infantil">
+            </div>
+        </div>
+    </section>
+
+    <section id="testimonios" class="section">
+        <div class="container">
+            <h2>Testimonios</h2>
+            <blockquote>
+                “¡El carrito fue la estrella de la boda! Todo delicioso y bellamente presentado.” <br> <strong>- Laura G.</strong>
+            </blockquote>
+            <blockquote>
+                “Excelente servicio y atención al detalle. Muy recomendados.” <br> <strong>- Empresa XYZ</strong>
+            </blockquote>
+        </div>
+    </section>
+
+    <section id="contacto" class="section contacto">
+        <div class="container">
+            <h2>Contacto</h2>
+            <form>
+                <form action="https://formspree.io/f/mwkajzzy" method="POST">
+                <input type="text" placeholder="Tu nombre" required>
+                <input type="email" placeholder="Correo electrónico" required>
+                <textarea placeholder="¿Cómo podemos ayudarte?" required></textarea>
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Carritos de Dulces para Eventos. Todos los derechos reservados.</p>
+        </div>
+        <p>Síguenos en <a href="https://instagram.com/tuusuario" target="_blank" style="color: #ff69b4;">@tuusuario</a></p>
+
+    </footer>
+</body>
+</html>
